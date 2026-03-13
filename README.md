@@ -93,7 +93,7 @@ OpenClaw gives Gemini the ability to take real-world actions: send messages, sea
 
 ### 1. Install and configure OpenClaw
 
-Follow the [OpenClaw setup guide](https://github.com/nichochar/openclaw). Make sure the gateway is enabled:
+Follow the [OpenClaw setup guide](https://github.com/nichochar/openclaw). For a real operator setup on a Mac mini with WhatsApp, Tailscale, and Termius, see [OpenClaw Tutorial on a Mac Mini](https://starkslab.com/notes/openclaw-tutorial-mac-mini-setup). Make sure the gateway is enabled:
 
 In `~/.openclaw/openclaw.json`:
 
